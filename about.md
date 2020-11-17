@@ -1,12 +1,11 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+  We have a proven track record of delivering quality I.T Business solutions.
+image: images/about-us.jpg
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Cable Spark Ltd was incorporated in Kenya in 2017 to serve the I.T and communication industry. Our team of certified, professional Engineers and technicians have enabled Cable Spark Ltd to build strong business partnerships on the foundation of integrity, efficiency and provision of quality I.T. Business Solutions.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+  We specialize in Telecommunications Network Surveys and Designs, Installations, Support and Maintenance. Training and Consultancy services for ICT & Telecommunications.

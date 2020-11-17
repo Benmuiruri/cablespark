@@ -36,7 +36,7 @@ footer:
     - label: Contact
       url: /contact
   has_social: true
-  social_title: Community
+  social_title: Our Socials
   social_links:
     - label: Twitter
       url: 'https://twitter.com/'
@@ -50,10 +50,10 @@ footer:
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
+  content: '&copy; Cable Spark. All rights reserved.'
   links:
-    - label: Made with Stackbit
-      url: 'https://www.stackbit.com'
+    - label: Cable Spark
+      url: /
       new_window: true
 sass:
   indentWidth: 4

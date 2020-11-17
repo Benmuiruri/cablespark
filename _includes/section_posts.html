@@ -28,13 +28,11 @@
           {% endif %}
           <div class="post-card-content">
             <header class="post-header">
-              <h3 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h3>
+              <h3 class="post-title">{{ post.title }}</h3>
             </header>
             <div class="post-excerpt">
               <p>{{ post.excerpt }}</p>
             </div>
-            
-            {% include blog_post_footer.html page=post date_type='short' %}
           </div><!-- .post-card-content -->
         </div><!-- .post-card-inside -->
       </article><!-- .post -->

@@ -3,15 +3,15 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    title: This Is A Big Hero Headline
+    image: images/hero.jpg
+    title: Total I.T. Business Solutions
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      We pride ourselves in providing the highest quality service and support while offering competitive pricing within the market.
     actions:
-      - label: Learn More
+      - label: Our Services
         url: /features
         primary: true
+
   - section_id: features
     type: section_features
     background: gray
@@ -47,13 +47,15 @@ sections:
         actions:
           - label: Learn More
             url: /features
+
+
   - section_id: reviews
     type: section_reviews
     background: white
     title: Testimonials
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
@@ -71,6 +73,8 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!

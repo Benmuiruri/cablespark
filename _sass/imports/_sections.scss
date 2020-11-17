@@ -111,7 +111,7 @@
       -ms-flex: 5;
       flex: 5;
     }
-    
+
     .underline:after {
       display: block;
     }
@@ -538,9 +538,11 @@
   }
 
   &.bg-accent {
-    background: _palette(accent);
-    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/hero.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
     color: #fff;
 
     a {

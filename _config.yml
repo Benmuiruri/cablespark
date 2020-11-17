@@ -1,4 +1,4 @@
-title: Stackbit Azimuth Theme
+title: Cable Spark
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -7,32 +7,32 @@ collections:
 palette: blue
 header:
   title: Azimuth
-  logo_img: images/logo.png
+  logo_img: images/logo.jpeg
   has_nav: true
   nav_links:
     - label: Home
       url: /
-    - label: Features
-      url: /features
-    - label: Pricing
+    - label: About Us
+      url: /about
+    - label: Why Choose us
       url: /pricing
-    - label: Style Guide
-      url: /style-guide
-    - label: Sign Up
-      url: /signup
+    - label: Services
+      url: /blog
+    - label: Contact Us
+      url: /contact
       primary: true
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: images/logo.jpeg
+  tagline: Cable Spark @ 2017
   has_nav: true
   nav_title: Company
   nav_links:
     - label: About Us
       url: /about
-    - label: Blog
+    - label: Why Choose Us
       url: /blog
-    - label: Sign Up
-      url: signup
+    - label: Services
+      url: /pricing
     - label: Contact
       url: /contact
   has_social: true

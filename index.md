@@ -9,7 +9,7 @@ sections:
       We pride ourselves in providing the highest quality service and support while offering competitive pricing within the market.
     actions:
       - label: Our Services
-        url: /features
+        url: /services
         primary: true
 
   - section_id: features

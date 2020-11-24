@@ -6,7 +6,7 @@ layout: body
   <div class="inner">
 
     <div class="post-feed">
-      {% assign display_posts = '/blog' | get_pages | sort: 'date' | reverse %}
+      {% assign display_posts = '/services' | get_pages | sort: 'date' | reverse %}
       {% for post in display_posts %}
       <article class="post post-card">
         <div class="post-card-inside">

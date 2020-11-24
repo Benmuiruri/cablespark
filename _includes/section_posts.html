@@ -14,7 +14,7 @@
   </div><!-- .block-header -->
   <div class="inner">
     <div class="post-feed">
-      {% assign display_posts = '/blog' | get_pages | sort: 'date' | reverse %}
+      {% assign display_posts = '/services' | get_pages | sort: 'date' | reverse %}
       {% assign slice_length = 3 | minus: 0 %}
       {% assign recent_posts = display_posts | slice: 0, slice_length %}
       {% for post in recent_posts %}

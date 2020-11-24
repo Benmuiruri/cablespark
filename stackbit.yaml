@@ -241,12 +241,12 @@ models:
             - section_pricing
             - section_reviews
             - section_contact
-  blog:
+  services:
     type: page
-    urlPath: /blog
-    label: Blog
-    layout: blog
-    file: blog/index.md
+    urlPath: /services
+    label: services
+    layout: services
+    file: services/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -259,7 +259,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: blog/**
+    exclude: services/**
     fields:
       - type: string
         name: title
@@ -276,10 +276,10 @@ models:
         description: The image shown below the page title
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/services/{slug}'
     label: Post
     layout: post
-    folder: blog
+    folder: services
     fields:
       - type: string
         name: title
@@ -302,15 +302,15 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the blog feed
+        description: The excerpt of the post displayed in the services feed
       - type: image
         name: image
         label: Featured Image
         description: The image shown below the title
       - type: image
         name: thumb_image
-        label: Blog Feed Image
-        description: The image shown in the blog feed
+        label: services Feed Image
+        description: The image shown in the services feed
   section:
     type: object
     label: Section

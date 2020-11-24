@@ -17,7 +17,7 @@ header:
     - label: Why Choose us
       url: /pricing
     - label: Services
-      url: /blog
+      url: /services
     - label: Contact Us
       url: /contact
       primary: true
@@ -30,9 +30,9 @@ footer:
     - label: About Us
       url: /about
     - label: Why Choose Us
-      url: /blog
-    - label: Services
       url: /pricing
+    - label: Services
+      url: /services
     - label: Contact
       url: /contact
   has_social: true

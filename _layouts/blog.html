@@ -23,6 +23,8 @@ layout: body
             <div class="post-excerpt">
               <p>{{ post.excerpt }}</p>
             </div>
+
+            {% include blog_post_footer.html page=post date_type='short' %}
           </div><!-- post-card-content -->
         </div><!-- .post-card-inside -->
       </article><!-- .post -->

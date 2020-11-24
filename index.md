@@ -27,7 +27,7 @@ sections:
           - label: Learn More About Us
             url: /about
       - title: Why Work With Us?
-        image: images/feature2.png
+        image: images/why_us.png
         content: >-
           We are Committed to Delivering Outstanding, High-Value Solutions through: Excellence, Innovation, and Trust.
         actions:

@@ -1,12 +1,12 @@
 ---
-title: Behind the Scenes - The Design of Azimuth
+title: Preliminary Site Surveys and Design
 excerpt: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
 author: _data/authors/jane-doe.yaml
 date: '2018-01-09'
-thumb_image: images/6_thumb.jpg
-image: images/6.jpg
+thumb_image: images/site_survey.jpg
+image: images/site_survey.jpg
 layout: post
 ---
 

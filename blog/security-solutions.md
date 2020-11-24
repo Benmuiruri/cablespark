@@ -1,13 +1,13 @@
 ---
-title: Supply
+title: Security Solutions & Infrastructure
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 date: '2019-04-23'
-thumb_image: images/3_thumb.jpg
-image: images/3.jpg
+thumb_image: images/security_camera.jpg
+image: images/security_camera.jpg
 layout: post
 ---
 

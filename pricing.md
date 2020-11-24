@@ -1,24 +1,24 @@
 ---
-title: Pricing
+title: Why Choose Us
 sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    title: Why Choose Us
+    subtitle: We are one of Kenya's leading telecommunication, I.T. and Security service provider
     pricing_plans:
-      - title: Basic
-        price: $5/m
+      -
+        price: On Time Delivery
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: Contact Us
             url: /signup
-      - title: Professional
-        price: $49/m
+      -
+        price: Professional Service
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
@@ -27,19 +27,21 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: Contact Us
             url: /signup
             primary: true
-      - title: Enterprise
-        price: $149/m
+
+      -
+        price: High Quality Materials
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
           * Mauris eleifend sapien
           * Phasellus lobortis risus
         actions:
-          - label: Order Now
+          - label: Contact Us
             url: /signup
+
   - section_id: faq
     type: section_faq
     background: gray
@@ -57,7 +59,7 @@ sections:
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+          eget velit.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac

@@ -1,14 +1,15 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: Fiber Optic Installation
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
+  massa primis.
 author: _data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2017-03-26'
-thumb_image: images/1_thumb.jpg
+date: '2020-01-01'
+thumb_image: images/fiber_optic.jpg
+image: images/fiber_optic.jpg
 layout: post
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
+title: Hardware Supply
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 author: _data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
   interdum, massa massa tempor ante.
-date: '2018-01-11'
-thumb_image: images/5_thumb.jpg
-image: images/5.jpg
+date: '2020-01-11'
+thumb_image: images/supply.jpg
+image: images/supply.jpg
 layout: post
 ---
 

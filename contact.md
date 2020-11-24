@@ -6,8 +6,9 @@ sections:
     background: gray
     title: Contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Send us a message with to ask any questions, book a site visit, make inquiries, or
+      just say hi!
+
+      We promise to reply before day's end :)
 layout: landing
 ---

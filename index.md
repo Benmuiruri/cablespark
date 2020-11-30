@@ -57,8 +57,8 @@ sections:
     subtitle: >-
       Here is what our clients have to say about us.
     reviews:
-      - author: Company X
-        avatar: images/review1.jpg
+      - author: Swift Systems
+        avatar: images/swift.png
         content: >-
           Cable Spark has set the benchmark for network installations and infrastructure support..
       - author: Company Y

@@ -10,64 +10,50 @@ sections:
       -
         price: On Time Delivery
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * We always start our project on the agreed date
+          * We complete each scope of work within agreed time lines
+          * We always respect and meet customer time lines.
         actions:
           - label: Contact Us
-            url: /signup
+            url: /contact
       -
         price: Professional Service
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * We have a team of skilled engineers and technicians.
+          * We offer the highest level of customer satisfaction
+          * We are market focused upon our core competencies
         highlight: true
         actions:
           - label: Contact Us
-            url: /signup
+            url: /contact
             primary: true
 
       -
         price: High Quality Materials
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+          * We use setup state of the art infrastructure
+          * We use certified equipment and standards
+          * We offer solutions built on the latest technology from leading vendors
         actions:
           - label: Contact Us
-            url: /signup
+            url: /contact
+
 
   - section_id: faq
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: Where are you located?
         answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
+          We are located at XXX.
+      - question: How can I get in touch with you?
         answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit.
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+          You can drop us an email at info@cablespark.co.ke or call us on 07XX xxx xxx
+      - question: What services do you provide?
         answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+          We offer a variety of business solutions, managed services, and consultancy practice,
+          including: Site survey and design, BTS installation and maintenance services, fiber optic installation, and hardware supply.
+
 layout: landing
 ---

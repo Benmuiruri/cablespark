@@ -61,11 +61,11 @@ sections:
         avatar: images/swift.png
         content: >-
           Cable Spark has set the benchmark for network installations and infrastructure support..
-      - author: Company Y
+      - author: Acrony Limited
         avatar: images/review2.jpg
         content: >-
           Cable Spark provides us with ongoing advise and recommendations to enhance our I.T. infrastructure.
-      - author: Company Z
+      - author: Linerfix Limited
         avatar: images/review3.jpg
         content: >-
           We have worked with Cable Spark on three projects and we have always been impressed with the knowledge, skills and professionalism they show.
